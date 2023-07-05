@@ -1,6 +1,6 @@
 ### Olá, eu sou a Yasmin de Oliveira ✨
 
-👩🏽 Estudante de Desenvolvimento Front-End, e estou sempre tentando desbravar essa imensão de Tecnologias! 
+👩🏽 Estudante de Desenvolvimento Front-End, e estou sempre tentando desbravar essa imensidão de Tecnologias! 
 
 🏙️ Nascida e criada em Goiânia, apaixonada por uma boa pamonha e pequi.
 
